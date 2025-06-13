@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mchen/ML_Engineer/1_MLOps/11_ML_Project1/ML_pipeline/mlruns/0/a2d67a8f183949afa3b636d9e90d106a/artifacts
+end_time: 1747242374675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2d67a8f183949afa3b636d9e90d106a
+run_name: traveling-ray-818
+run_uuid: a2d67a8f183949afa3b636d9e90d106a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747242374669
+status: 4
+tags: []
+user_id: mchen

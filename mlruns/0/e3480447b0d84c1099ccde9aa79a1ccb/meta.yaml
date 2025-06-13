@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mchen/ML_Engineer/1_MLOps/11_ML_Project1/ML_pipeline/mlruns/0/e3480447b0d84c1099ccde9aa79a1ccb/artifacts
+end_time: 1747242311861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3480447b0d84c1099ccde9aa79a1ccb
+run_name: upset-robin-150
+run_uuid: e3480447b0d84c1099ccde9aa79a1ccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747242311854
+status: 4
+tags: []
+user_id: mchen

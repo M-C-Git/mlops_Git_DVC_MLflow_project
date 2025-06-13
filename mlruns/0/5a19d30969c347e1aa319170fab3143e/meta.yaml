@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mchen/ML_Engineer/1_MLOps/11_ML_Project1/ML_pipeline/mlruns/0/5a19d30969c347e1aa319170fab3143e/artifacts
+end_time: 1747242258512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a19d30969c347e1aa319170fab3143e
+run_name: welcoming-stoat-807
+run_uuid: 5a19d30969c347e1aa319170fab3143e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747242258506
+status: 4
+tags: []
+user_id: mchen

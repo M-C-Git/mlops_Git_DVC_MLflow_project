@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mchen/ML_Engineer/1_MLOps/11_ML_Project1/ML_pipeline/mlruns/0/493fb0bf983e4586a5e2fbbea5b65768/artifacts
+end_time: 1747242329509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 493fb0bf983e4586a5e2fbbea5b65768
+run_name: stately-cat-437
+run_uuid: 493fb0bf983e4586a5e2fbbea5b65768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747242329501
+status: 4
+tags: []
+user_id: mchen

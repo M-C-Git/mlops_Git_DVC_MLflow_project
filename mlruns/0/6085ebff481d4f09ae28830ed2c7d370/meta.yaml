@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mchen/ML_Engineer/1_MLOps/11_ML_Project1/ML_pipeline/mlruns/0/6085ebff481d4f09ae28830ed2c7d370/artifacts
+end_time: 1747242779912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6085ebff481d4f09ae28830ed2c7d370
+run_name: likeable-hare-959
+run_uuid: 6085ebff481d4f09ae28830ed2c7d370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747242778493
+status: 3
+tags: []
+user_id: mchen

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mchen/ML_Engineer/1_MLOps/11_ML_Project1/ML_pipeline/mlruns/0/6993a0247f6343b2ae1cb2f9b3014d67/artifacts
+end_time: 1747242700283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6993a0247f6343b2ae1cb2f9b3014d67
+run_name: delicate-gnat-148
+run_uuid: 6993a0247f6343b2ae1cb2f9b3014d67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747242698899
+status: 3
+tags: []
+user_id: mchen
