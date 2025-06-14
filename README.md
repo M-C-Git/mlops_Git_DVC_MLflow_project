@@ -53,7 +53,7 @@ This project demonstrates how to manage the lifecycle of a machine learning proj
 
 Data Pipleline Diagram
 ========================
-![alt text](others\image.png)
+![alt text](others/image.png)
 </br>
 </br>
 
