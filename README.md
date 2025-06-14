@@ -50,6 +50,11 @@ Scikit-learn: For building and training the Random Forest Classifier.</br>
 This project demonstrates how to manage the lifecycle of a machine learning project, ensuring that data, code, models, and experiments are all tracked, versioned, and reproducible.
 </br>
 </br>
+
+Data Pipleline Diagram
+========================
+![alt text](others\image.png)
+</br>
 </br>
 
 For Adding Stages
